@@ -159,6 +159,7 @@ public class Reader extends JFrame {
             }
         }
     }
+
     public class DelActionListener implements ActionListener{
         public void actionPerformed(ActionEvent e) {
             if(e.getSource() == remove){
